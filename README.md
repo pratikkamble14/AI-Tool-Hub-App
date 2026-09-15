@@ -9,14 +9,17 @@
 ![ESLint](https://img.shields.io/badge/ESLint-Clean-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**🔗 Live Demo:** _Coming soon — deploy to Vercel and paste the URL here._
-
 ---
 
 ## 📸 Preview
 
-> _Tip: add a screenshot at `public/preview.png` and embed it here:_
-> `![AI Tools Hub preview](public/preview.png)`
+### Desktop
+
+![AI Tools Hub — desktop preview](public/preview-desktop.png)
+
+### Mobile
+
+![AI Tools Hub — mobile preview](public/preview-mobile.png)
 
 A clean, modern interface with a sticky header, hero search, category filters, and a responsive card grid (1 → 2 → 3 → 4 columns) with full light/dark mode support.
 
@@ -33,9 +36,9 @@ A clean, modern interface with a sticky header, hero search, category filters, a
 | 🌙 **Dark mode** | Zero-flash theme init (applied before hydration), persisted preference, respects OS setting |
 | 📱 **Fully responsive** | Mobile-first layout, `dvh` units for mobile browser chrome, 16px inputs (no iOS auto-zoom) |
 | ♿ **Accessible** | `focus-visible` rings, ARIA labels/pressed/live regions, keyboard-navigable throughout |
-| 🃏 **24 curated tools** | Chatbots, coding assistants, image / video / audio generators, design, whiteboards & more |
+| 🃏 **23 curated tools** | Chatbots, coding assistants, image / video / audio generators, design, whiteboards & more |
 
-### 🧰 Tools included (24)
+### 🧰 Tools included (23)
 
 **Chatbots (10):** ChatGPT · Gemini · DeepSeek · Grok · Claude · Microsoft Copilot · Meta AI · Le Chat · Poe · Character.AI
 **Coding (1):** Cursor · **Search (1):** Perplexity · **Image (2):** Midjourney · Leonardo AI
@@ -150,14 +153,14 @@ If it's a brand-new category, also add it to the `ToolCategory` type and the `CA
 
 ## 👨‍💻 Author
 
-**Pratik Kamble**
+**Pratik Kamble** — DevOps Engineer
 
 - GitHub: [@pratikkamble14](https://github.com/pratikkamble14)
-- LinkedIn: _Add your LinkedIn URL here_
-- Portfolio: _Add your portfolio URL here_
-- Email: _Add your email here_
+- LinkedIn: [pratik-kamble-9995b0260](https://www.linkedin.com/in/pratik-kamble-9995b0260)
+- Portfolio: [pratikkamble14.github.io/pratik-kamble-portfolio](https://pratikkamble14.github.io/pratik-kamble-portfolio/)
+- Email: [kamblepratik1404@gmail.com](mailto:kamblepratik1404@gmail.com)
 
-_Open to frontend / full-stack opportunities — feel free to reach out!_
+_Open to DevOps / cloud opportunities — feel free to reach out!_
 
 ---
 
