@@ -13,13 +13,13 @@
 
 ## 📸 Preview
 
-### Desktop
+| Home — light mode | Tool grid |
+| ----------------- | --------- |
+| ![AI Tools Hub homepage](images/preview-home.png) | ![AI Tools Hub tool grid](images/preview-grid.png) |
 
-![AI Tools Hub — desktop preview](public/preview-desktop.png)
-
-### Mobile
-
-![AI Tools Hub — mobile preview](public/preview-mobile.png)
+| Dark mode | Mobile |
+| --------- | ------ |
+| ![AI Tools Hub dark mode](images/preview-dark.png) | ![AI Tools Hub on mobile](public/preview-mobile.png) |
 
 A clean, modern interface with a sticky header, hero search, category filters, and a responsive card grid (1 → 2 → 3 → 4 columns) with full light/dark mode support.
 
